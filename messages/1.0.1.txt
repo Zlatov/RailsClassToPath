@@ -1,0 +1,4 @@
+Package Control compliance updates.
+- Added Command Palette entry
+- Added settings menu for key bindings
+- Packaging improvements
