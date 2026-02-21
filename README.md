@@ -19,6 +19,8 @@ file from a class name or infer a class name from a path.
 
 ## Usage
 
+To assign a key binding: *Preferences* → *Package Settings* → *RailsClassToPath* → *Key Bindings*
+
 1. Select text (Ruby class name or path)
 2. Press the hotkey (default `Ctrl+K, Ctrl+H`)
 
