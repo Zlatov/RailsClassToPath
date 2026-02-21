@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "RailsClassToPath: Convert Class ↔ path",
+    "command": "rails_class_to_path"
+  }
+]

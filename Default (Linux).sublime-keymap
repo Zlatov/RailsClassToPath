@@ -1,5 +1,0 @@
-[
-    {
-        "keys": ["ctrl+k", "ctrl+h"], "command": "rails_class_to_path"
-    }
-]
